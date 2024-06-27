@@ -1,0 +1,16 @@
+{
+  "name": "0003-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0002-FORMULARIO-Peticiones.mjs",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./0002-FORMULARIO-Peticiones.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "3.1.4"
+  }
+}
