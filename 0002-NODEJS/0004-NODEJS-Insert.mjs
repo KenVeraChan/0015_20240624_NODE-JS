@@ -7,6 +7,5 @@ export function insertAddress(addresses,id)
         //El método filter busca en la matriz de objetos aquel que coincida con el id buscado
     );
     const finalData=data.addresses.concat(filteredAddresses); 
-    console.log(finalData);
     return finalData;
 }
